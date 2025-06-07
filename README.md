@@ -2,21 +2,20 @@
 
 I’m a passionate .NET backend developer with a strong interest in cybersecurity and building efficient, scalable systems. I enjoy solving complex problems, writing clean and maintainable code, and constantly learning new technologies.
 
-<h4>🌟 My Goals<h4>
+<h3>🌟 My Goals</h3>
 	<p>•	Become a well-known developer in the tech community</p>
 	<p>•	Master backend architecture, database optimization, and secure software design</p>
 	<p>•	Contribute to open-source projects and share knowledge with others</p>
 
-<h4>🛠️ Tech I Work With</h4>
+<h3>🛠️ Tech I Work With</h3>
 	<p>•	Languages: C#, Go, Java</p>
 	<p>•	Frameworks: .NET, ASP.NET Core, Entity Framework</p>
 	<p>•	Databases: MS SQL Server</p>
 	<p>•	Tools: Git, Postman</p>
 	<p>•	Interests: Secure coding, API development, system design</p>
 
-<h4>📫 Let’s Connect</h4>
+<h3>📫 Let’s Connect</h3>
 Feel free to check out my projects or reach out — I’m always open to feedback, collaboration, and new ideas!
-###
 
 <h3 align="left">Social media</h3>
 
@@ -71,7 +70,7 @@ Feel free to check out my projects or reach out — I’m always open to feedbac
 
 ###
 
-<h4 align="left">Profile views</h4>
+<h3 align="left">Profile views</h3>
 
 ###
 
