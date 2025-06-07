@@ -1,20 +1,20 @@
-👋 Hi there, I’m Omar Khattab
+##👋 Hi there, I’m Omar Khattab
 
 I’m a passionate .NET backend developer with a strong interest in cybersecurity and building efficient, scalable systems. I enjoy solving complex problems, writing clean and maintainable code, and constantly learning new technologies.
 
-🌟 My Goals
-	•	Become a well-known developer in the tech community
-	•	Master backend architecture, database optimization, and secure software design
-	•	Contribute to open-source projects and share knowledge with others
+###🌟 My Goals
+	<p>•	Become a well-known developer in the tech community</p>
+	<p>•	Master backend architecture, database optimization, and secure software design</p>
+	<p>•	Contribute to open-source projects and share knowledge with others</p>
 
-🛠️ Tech I Work With
-	•	Languages: C#, Go, Java
-	•	Frameworks: .NET, ASP.NET Core, Entity Framework
-	•	Databases: MS SQL Server
-	•	Tools: Git, Postman
-	•	Interests: Secure coding, API development, system design
+###🛠️ Tech I Work With
+	<p>•	Languages: C#, Go, Java</p>
+	<p>•	Frameworks: .NET, ASP.NET Core, Entity Framework</p>
+	<p>•	Databases: MS SQL Server</p>
+	<p>•	Tools: Git, Postman</p>
+	<p>•	Interests: Secure coding, API development, system design</p>
 
-📫 Let’s Connect
+###📫 Let’s Connect
 Feel free to check out my projects or reach out — I’m always open to feedback, collaboration, and new ideas!
 ###
 
